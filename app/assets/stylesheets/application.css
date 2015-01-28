@@ -21,8 +21,24 @@ div{
   height:180px;
   width:180px;
   margin:5px;
+  border-radius:5px;
+}
+div div{
+  height:20px;
+  width:160px;
+}
+div.align-left{
+  width:20px;
+  float:left;
+  border:none;
 
-  
+}
+div.align-right{
+  width:20px;
+  float:right;
+  border:none;
 
-
+}
+.picture{
+  width
 }
