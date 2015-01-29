@@ -16,14 +16,17 @@
 
 
 div{
-  border:solid black;
+  border:solid teal;
   float:left;
   height:180px;
   width:180px;
   margin:5px;
   border-radius:5px;
+
+
+
 }
-div div{
+div div div{
   height:20px;
   width:160px;
 }
@@ -39,6 +42,14 @@ div.align-right{
   border:none;
 
 }
-.picture{
-  width
+div.background{
+  border:none;
+  width:1375px;
+  height:790px;
+  background:url(Leatherback.jpg);
+
+
+}
+.sun.bottom {
+  color:#99FF99;
 }
