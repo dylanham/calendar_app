@@ -50,6 +50,13 @@ div.background{
 
 
 }
+div.top{
+  width:1375px;
+  height:15px;
+  border:none;
+}
+
+
 .sun.bottom {
   color:#99FF99;
 }
